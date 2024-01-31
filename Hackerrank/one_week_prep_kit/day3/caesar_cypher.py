@@ -4,7 +4,6 @@
 # The function accepts following parameters:
 #  1. STRING s
 #  2. INTEGER k
-#
 
 def caesarCipher(s, k):
     result = ""

@@ -4,7 +4,6 @@
 # The function accepts following parameters:
 #  1. INTEGER n
 #  2. INTEGER m
-#
 
 def towerBreakers(n, m):
     if n % 2 == 0 or m == 1:

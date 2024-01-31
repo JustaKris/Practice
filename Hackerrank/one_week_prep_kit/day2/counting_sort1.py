@@ -2,7 +2,6 @@
 #
 # The function is expected to return an INTEGER_ARRAY.
 # The function accepts INTEGER_ARRAY arr as parameter.
-#
 
 def countingSort(arr):
     # Create a frequency array with 100 elements initialized to 0
