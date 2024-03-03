@@ -1,0 +1,20 @@
+1. What is a set? How does it work?
+2. What is a tuple? How does it work?
+3. Write a function that takes a list of integers and returns a new list where each element is the sum of the corresponding elements of two input lists.
+4. Can you tell me what is binary search and how does it work?
+5. What is “list”? How does it work?
+6. Write a function that takes a string and returns True if the string is palindrome, and false otherwise.
+7. Can you write a function that takes a string and returns the number of vowels in the string?
+8. Can you tell me what is a polymorphism? Give me an example.
+9. What is encapsulation? Give me an example.
+10. You are building a system to manage a company's employee hierarchy. Each employee has a name, job title, and salary. The company has different departments such as IT, Marketing, and Sales. Draw an object-oriented hierarchy to represent the employees and departments.
+11. Can you write a query to find the total number of orders for each customer in the Orders table?
+12. Can you write a query to find the top 5 highest paid employees in the Employees table?
+13. How does inner join work? Can you provide example?
+14. Your web app has a form for users to submit their contact information. How would you use an MVC framework to handle form submissions and save it to a database?
+15. How would you create a RESTful API using Django to allow users to retrieve and manipulate data from a database?
+16. You are building a web app that allows users to create and edit their profiles. How would you use an MVC framework to handle user requests to view, update, or delete their profile information?
+17. You are building an e-commerce website that sells different types of products such as clothing, electronics, and home appliances. Draw an object-oriented hierarchy to represent the products.
+18. You need to implement client-side form validation in JavaScript? How would you ensure that form data is valid before submitting it to the server?
+19. How would you implement a simple web form using Flask to accept user input and store it in a database?
+20. How would you implement user authentication using Django to restrict access to certain pages or functionality on your web application?
